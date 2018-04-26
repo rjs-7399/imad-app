@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background: https://www.pexels.com/photo/trees-in-park-257360/;
+    background-image: https://www.pexels.com/photo/trees-in-park-257360/("bgdesert.jpg"); 
     margin-top: 80px;
 }
 
